@@ -25,27 +25,25 @@ My curated list of best StackOverflow questions that I have come across. Contrib
 
 ### Developers
 
-**Food for thought:**
+* **Food for thought:**
 
-* [Can't a user change his session information to impersonate others?](http://security.stackexchange.com/questions/140217/cant-a-user-change-his-session-information-to-impersonate-others)  
+  * [Can't a user change his session information to impersonate others?](http://security.stackexchange.com/questions/140217/cant-a-user-change-his-session-information-to-impersonate-others)  
 
-* [Could keystroke timing improve security on a password?](http://security.stackexchange.com/questions/121824/could-keystroke-timing-improve-security-on-a-password)
+  * [Could keystroke timing improve security on a password?](http://security.stackexchange.com/questions/121824/could-keystroke-timing-improve-security-on-a-password)
 
-* [How do I debug an emoticon-based URL?](http://superuser.com/questions/1131772/how-do-i-debug-an-emoticon-based-url)
+  * [How do I debug an emoticon-based URL?](http://superuser.com/questions/1131772/how-do-i-debug-an-emoticon-based-url)
 
+* **References:**
 
-**References:**
+  * [Simple explanation of how Dirty COW works?](http://security.stackexchange.com/questions/140469/simple-explanation-of-how-dirty-cow-works)
 
-* [Simple explanation of how Dirty COW works?](http://security.stackexchange.com/questions/140469/simple-explanation-of-how-dirty-cow-works)
+  * [Which of the TLS ciphersuites are more faste and secure in Handshaking?](http://security.stackexchange.com/questions/129823/which-of-the-tls-ciphersuites-are-more-faste-and-secure-in-handshaking)
 
-* [Which of the TLS ciphersuites are more faste and secure in Handshaking?](http://security.stackexchange.com/questions/129823/which-of-the-tls-ciphersuites-are-more-faste-and-secure-in-handshaking)
+  * [Which protocols exist for end-to-end encrypted group chat?](http://security.stackexchange.com/questions/126768/which-protocols-exist-for-end-to-end-encrypted-group-chat)
 
-* [Which protocols exist for end-to-end encrypted group chat?](http://security.stackexchange.com/questions/126768/which-protocols-exist-for-end-to-end-encrypted-group-chat)
+* **Don't(s):**
 
-
-**Don't(s):**
-
-* [Encrypting text data by replacing characters?](http://security.stackexchange.com/questions/127961/encrypting-text-data-by-replacing-characters)
+  * [Encrypting text data by replacing characters?](http://security.stackexchange.com/questions/127961/encrypting-text-data-by-replacing-characters)
 
 
 ### Sys-admins
