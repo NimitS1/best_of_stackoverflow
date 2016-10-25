@@ -40,6 +40,8 @@ Questions relevant to software developers
   References to help you code well
 
   * [Simple explanation of how Dirty COW works?](http://security.stackexchange.com/questions/140469/simple-explanation-of-how-dirty-cow-works)
+  
+  * [How does SSL/TLS work?](http://security.stackexchange.com/questions/20803/how-does-ssl-tls-work)
 
   * [Which of the TLS ciphersuites are more faste and secure in Handshaking?](http://security.stackexchange.com/questions/129823/which-of-the-tls-ciphersuites-are-more-faste-and-secure-in-handshaking)
 
