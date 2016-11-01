@@ -23,6 +23,8 @@ Questions relevant to everyone
 
 * [I almost searched my password, but didn't press enter. Is my password at risk, because of autocomplete or anything else?](http://security.stackexchange.com/questions/121847/i-almost-searched-my-password-but-didnt-press-enter-is-my-password-at-risk-b)
 
+* [What is worse for password strength, a poor password policy or no password policy at all?](http://security.stackexchange.com/questions/131056/what-is-worse-for-password-strength-a-poor-password-policy-or-no-password-polic)
+
 
 ### Developers
 Questions relevant to software developers
