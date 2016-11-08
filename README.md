@@ -32,6 +32,8 @@ Questions relevant to software developers
 * **Food for thought:**
   A bunch of interesting questions
 
+  * [Are security flaws acceptable if not much harm can derive from them?](http://security.stackexchange.com/questions/130896/are-security-flaws-acceptable-if-not-much-harm-can-derive-from-them/130900#130900)
+
   * [Can't a user change his session information to impersonate others?](http://security.stackexchange.com/questions/140217/cant-a-user-change-his-session-information-to-impersonate-others)  
 
   * [Could keystroke timing improve security on a password?](http://security.stackexchange.com/questions/121824/could-keystroke-timing-improve-security-on-a-password)
