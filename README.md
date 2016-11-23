@@ -39,6 +39,8 @@ Questions relevant to software developers
   * [Could keystroke timing improve security on a password?](http://security.stackexchange.com/questions/121824/could-keystroke-timing-improve-security-on-a-password)
 
   * [How do I debug an emoticon-based URL?](http://superuser.com/questions/1131772/how-do-i-debug-an-emoticon-based-url)
+  
+  * [Which security measures make sense for a static web site?](http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site)
 
 * **References:**
   References to help you code well
