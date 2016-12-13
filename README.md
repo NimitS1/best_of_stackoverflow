@@ -41,6 +41,8 @@ Questions relevant to software developers
   * [How do I debug an emoticon-based URL?](http://superuser.com/questions/1131772/how-do-i-debug-an-emoticon-based-url)
   
   * [Which security measures make sense for a static web site?](http://security.stackexchange.com/questions/142496/which-security-measures-make-sense-for-a-static-web-site)
+  
+  * [Why aren't infinite depth wildard certificates allowed?(sic)](http://security.stackexchange.com/questions/37887/why-arent-infinite-depth-wildcard-certificates-allowed)
 
 * **References:**
   References to help you code well
