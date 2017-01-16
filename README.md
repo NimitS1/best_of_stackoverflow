@@ -15,6 +15,8 @@ My curated list of best StackOverflow questions that I have come across. Contrib
 ###General users
 Questions relevant to everyone  
 
+* [Attack vector for exploiting WhatsApp's retransmission “vulnerability”?](http://security.stackexchange.com/questions/148469/attack-vector-for-exploiting-whatsapps-retransmission-vulnerability/148473#148473)
+
 * [Explain to non tech savvy person how to check that your connection to mybank.com is safe?](http://security.stackexchange.com/questions/112383/explain-to-non-tech-savvy-person-how-to-check-that-your-connection-to-mybank-com) 
 
 * [Help! My home PC has been infected by a virus! What do I do now?](http://security.stackexchange.com/questions/138606/help-my-home-pc-has-been-infected-by-a-virus-what-do-i-do-now)
