@@ -25,6 +25,8 @@ Questions relevant to everyone
 
 * [I almost searched my password, but didn't press enter. Is my password at risk, because of autocomplete or anything else?](http://security.stackexchange.com/questions/121847/i-almost-searched-my-password-but-didnt-press-enter-is-my-password-at-risk-b)
 
+* [Landlord will be watching my data traffic, as mentioned in the lease agreement](http://security.stackexchange.com/questions/136543/landlord-will-be-watching-my-data-traffic-as-mentioned-in-the-lease-agreement)
+
 * [SSL certificate mismatch does not show warning in browser](http://security.stackexchange.com/questions/149503/ssl-certificate-mismatch-does-not-show-warning-in-browser)
 
 * [What is worse for password strength, a poor password policy or no password policy at all?](http://security.stackexchange.com/questions/131056/what-is-worse-for-password-strength-a-poor-password-policy-or-no-password-polic)
