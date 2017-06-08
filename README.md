@@ -72,6 +72,8 @@ Questions relevant system administratos
 
 * [How can two-man control be implemented efficiently?](http://security.stackexchange.com/questions/131391/how-can-two-man-control-be-implemented-efficiently)
 
+* [How are root CA revocations handled?](https://security.stackexchange.com/questions/161444/how-are-root-ca-revocations-handled)
+
 
 ### Corporate
 Questions relevant to securing your organization and general security guidelines
