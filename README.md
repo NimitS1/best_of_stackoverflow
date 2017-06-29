@@ -74,6 +74,8 @@ Questions relevant system administratos
 
 * [How are root CA revocations handled?](https://security.stackexchange.com/questions/161444/how-are-root-ca-revocations-handled)
 
+* [Encrypting a few TB of Data](https://security.stackexchange.com/questions/162874/encrypting-a-few-tb-of-data)
+
 
 ### Corporate
 Questions relevant to securing your organization and general security guidelines
