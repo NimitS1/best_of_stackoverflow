@@ -12,7 +12,7 @@ My curated list of best StackOverflow questions that I have come across. Contrib
 ## Security
 [Security StackExchange newtork](http://security.stackexchange.com/)
 
-###General users
+### General users
 Questions relevant to everyone  
 
 * [Attack vector for exploiting WhatsApp's retransmission “vulnerability”?](http://security.stackexchange.com/questions/148469/attack-vector-for-exploiting-whatsapps-retransmission-vulnerability/148473#148473)
