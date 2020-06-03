@@ -31,6 +31,7 @@ Questions relevant to everyone
 
 * [What is worse for password strength, a poor password policy or no password policy at all?](http://security.stackexchange.com/questions/131056/what-is-worse-for-password-strength-a-poor-password-policy-or-no-password-polic)
 
+* [Should I let my child's school have access to my kid's personal laptop?](https://security.stackexchange.com/questions/192535/should-i-let-my-childs-school-have-access-to-my-kids-personal-laptop)
 
 ### Developers
 Questions relevant to software developers
