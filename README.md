@@ -33,6 +33,8 @@ Questions relevant to everyone
 
 * [Should I let my child's school have access to my kid's personal laptop?](https://security.stackexchange.com/questions/192535/should-i-let-my-childs-school-have-access-to-my-kids-personal-laptop)
 
+* [Police forcing me to install Jingwang spyware app, how to minimize impact?](https://security.stackexchange.com/questions/194353/police-forcing-me-to-install-jingwang-spyware-app-how-to-minimize-impact)
+
 ### Developers
 Questions relevant to software developers
 
