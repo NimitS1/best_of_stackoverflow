@@ -35,6 +35,8 @@ Questions relevant to everyone
 
 * [Police forcing me to install Jingwang spyware app, how to minimize impact?](https://security.stackexchange.com/questions/194353/police-forcing-me-to-install-jingwang-spyware-app-how-to-minimize-impact)
 
+* [How can you trust that there is no backdoor in your hardware?](https://security.stackexchange.com/questions/241303/how-can-you-trust-that-there-is-no-backdoor-in-your-hardware)
+
 ### Developers
 Questions relevant to software developers
 
