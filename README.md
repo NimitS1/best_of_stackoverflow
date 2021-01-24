@@ -56,6 +56,8 @@ Questions relevant to software developers
   * [Why aren't infinite depth wildard certificates allowed?(sic)](http://security.stackexchange.com/questions/37887/why-arent-infinite-depth-wildcard-certificates-allowed)
   
   * [What technical reasons are there to have low maximum password lengths?](https://security.stackexchange.com/questions/33470/what-technical-reasons-are-there-to-have-low-maximum-password-lengths/33471#33471)
+  
+  * [Why is there no certificate error while visiting google.net although it presents a certificate issued to google.com?](https://security.stackexchange.com/questions/164770/why-is-there-no-certificate-error-while-visiting-google-net-although-it-presents)
 
 * **References:**
   References to help you code well
